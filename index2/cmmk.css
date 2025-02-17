@@ -1,0 +1,61 @@
+.fo{  
+    width: 650px;
+    height: 540px;
+    margin-left: 25rem;
+    margin-top: 1rem;
+    border-radius: 2rem;
+    background-color: rgba(0, 0, 0, 0.925);
+}
+.in1{
+    margin-left: 6rem;
+    border: 1px solid orangered;
+}
+.in1:hover{
+    transition: 1s;
+    margin-left: 6rem;
+    border: 1px solid aqua;
+}
+
+.in2{
+    margin-left: 6rem;
+    border: 1px solid orangered;
+}
+.in2:hover{
+    transition: 1s;
+    margin-left: 6rem;
+    border: 1px solid aqua;
+}
+.in3{
+    margin-left: 6rem;
+    border: 1px solid orangered;
+}
+.in3:hover{
+    transition: 1s;
+    margin-left: 6rem;
+    border: 1px solid aqua;
+}
+.myh1{
+    margin-left:34rem;
+    margin-top: 1rem;
+    color: rgb(117, 111, 111);
+    position: absolute;
+    background-color: yellow;
+    box-shadow:  4px 4px 4px 4px yellow;
+    border-radius: 2rem;
+    width: 20rem;
+    height: 3rem;
+}
+.mybot{
+    margin-left: 8.1rem;
+    border-radius: 1rem;
+    width: 100px;
+    height: 34px;
+    box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.623);
+    background-color: aqua;
+    border: 3px solid rgb(255, 0, 221);
+}
+.myb{
+    background-image: url(/کوه.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
